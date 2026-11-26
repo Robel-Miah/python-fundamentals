@@ -47,16 +47,17 @@ python-fundamentals/
 ├── 01-introduction/
 │   └── main.py
 │
-├── 02-variables-and-data-types/
-├── 03-operators/
-├── 04-control-flow/
-├── 05-data-structures/
-├── 06-functions/
-├── 07-object-oriented-programming/
-├── 08-modules-and-packages/
-├── 09-file-handling/
-├── 10-exception-handling/
-├── 11-advanced-python/
+├── 02-variables/
+├── 03-data-types/
+├── 04-operators/
+├── 05-control-flow/
+├── 06-data-structures/
+├── 07-functions/
+├── 08-object-oriented-programming/
+├── 09-modules-and-packages/
+├── 10-file-handling/
+├── 11-exception-handling/
+├── 12-advanced-python/
 └── README.md
 ```
 
